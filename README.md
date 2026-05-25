@@ -15,3 +15,7 @@ python3 sequoia/scripts/generate-ports.py
 ```
 
 See the [official website](https://www.michaelandreuzza.com/vscode/sequoia/) for all available interfaces.
+
+## Created by
+
+By [Micheal Andreuzza](https://michaelandreuzza.com/) at [Lexington Themes](https://lexingtonthemes.com/)
