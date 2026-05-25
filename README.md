@@ -1,18 +1,17 @@
-![Midnight](https://raw.githubusercontent.com/Sequoia-Theme/assets/main/githubHeader.png)
+![Sequoia](https://raw.githubusercontent.com/Sequoia-Theme/assets/main/githubHeader.png)
 
 # Sequoia Color Palette
 
-## Usage
+Design tokens extracted from [Sequoia VS Code](https://github.com/Sequoia-Theme/vs-code).
 
-We provide you with the colors for all theme variants in many different formats.  
-Depending on where you would like to integrate them, you need to look either in `tokens.json` (structured design tokens), `palettes.scss`, `tailwind.config.js` (for usage with [Tailwind CSS](https://tailwindcss.com)), or the other files.
+## tokens.json
 
-If you need the colors in a differnt format that isn't available yet, just open an issue and let us know!  
-We'll gladly add it :)
+Structured colors for **Moonlight**, **Monochrome**, and **Retro** in dark and light modes.
 
-## Check out the palette and color-picker:
+## Regenerate
 
-https://sequoiatheme.com/sequoia-color-palette
+```bash
+python3 sequoia/scripts/generate-ports.py
+```
 
-
-Sequoia Theme created by [Micheal Andreuzza](https://github.com/michael-andreuzza).[Twitter](https://twitter.com/Mike_Andreuzza)
+See the [official website](https://www.michaelandreuzza.com/vscode/sequoia/) for all available interfaces.
